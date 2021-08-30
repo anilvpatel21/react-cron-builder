@@ -3,13 +3,13 @@
   "version": "1.0.4",
   "main": "dist/bundle.js",
   "description": "react component to create cron expression",
-  "repository": "https://github.com/one-more/react-cron-builder",
+  "repository": "https://github.com/anilvpatel21/react-cron-builder",
   "license": "ISC",
-  "author": "one-more",
+  "author": "anilvpatel21",
   "bugs": {
-    "url": "https://github.com/one-more/react-cron-builder/issues"
+    "url": "https://github.com/anilvpatel21/react-cron-builder/issues"
   },
-  "homepage": "https://github.com/one-more/react-cron-builder#readme",
+  "homepage": "https://github.com/anilvpatel21/react-cron-builder#readme",
   "peerDependencies": {
     "lodash": "^4.17.2",
     "prop-types": "^15.6.0",
