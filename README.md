@@ -3,14 +3,14 @@ React component to build [cron](https://ru.wikipedia.org/wiki/Cron) expression
 
 ## installation
 ```` bash
-npm install --save new-react-cron-builder
+npm install --save newui-react-cron-builder
 ````
 ## demo
 [Live demo](https://anilvpatel21.github.io/react-cron-builder/)
 
 ## usage
 ```` ecmascript 6
-import CronBuilder from  'new-react-cron-builder
+import CronBuilder from  'newui-react-cron-builder';
 import 'react-cron-builder/dist/bundle.css'
 
 <CronBuilder
