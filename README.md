@@ -10,7 +10,7 @@ npm install --save new-react-cron-builder
 
 ## usage
 ```` ecmascript 6
-import CronBuilder from  'react-cron-builder
+import CronBuilder from  'new-react-cron-builder
 import 'react-cron-builder/dist/bundle.css'
 
 <CronBuilder
