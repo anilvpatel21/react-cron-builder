@@ -1,8 +1,8 @@
 {
   "name": "newui-react-cron-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/bundle.js",
-  "description": "react component to create cron expression",
+  "description": "a new ui react component to create cron expression",
   "repository": "https://github.com/anilvpatel21/react-cron-builder",
   "license": "ISC",
   "author": "anilvpatel21",
