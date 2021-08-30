@@ -1,4 +1,4 @@
-# React Cron Builder
+# New UI React Cron Builder
 React component to build [cron](https://ru.wikipedia.org/wiki/Cron) expression
 
 ## installation
@@ -11,7 +11,7 @@ npm install --save newui-react-cron-builder
 ## usage
 ```` ecmascript 6
 import CronBuilder from  'newui-react-cron-builder';
-import 'react-cron-builder/dist/bundle.css'
+import 'newui-react-cron-builder/dist/bundle.css'
 
 <CronBuilder
     cronExpression="*/4 2,12,22 * * 1-5"
